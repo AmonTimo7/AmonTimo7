@@ -1,13 +1,13 @@
 <h1 align="center">👋 Opa, eu sou o Amon!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End;Especialista+em+Vibe+Coding+💫;Criando+interfaces+modernas+e+responsivas;Apaixonado+por+UI%2FUX+e+anima%C3%A7%C3%B5es" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End;Especialista+em+Vibe+Coding+;Criando+interfaces+modernas+e+responsivas;Apaixonado+por+UI%2FUX+e+anima%C3%A7%C3%B5es" alt="Typing SVG" />
 </p>
 
 <p align="center">
   🎨 <strong>Especialista em Vibe Coding</strong> — transformando código em experiências cheias de energia, estilo e fluidez. <br>
   💻 Desenvolvedor Front-End com foco em design moderno, performance e interatividade. <br>
-  🚀 Criando interfaces que unem tecnologia, arte e propósito.
+  🚀 Criando interfaces que unem tecnologia, design e propósito.
 </p>
 
 ---
@@ -15,7 +15,7 @@
 ### 🧠 Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,git,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,git,figma,vscode,python,angular" />
 </p>
 
 <p align="center">
@@ -28,10 +28,10 @@
 
 ### 🧩 O que estou aprendendo
 
-- ⚛️ **React avançado** (Hooks, Context API, Router, Redux)
+- ⚛️ **Angular avançado** (Hooks, Context API, Router, Redux)
 - 🌌 **Tailwind CSS** e **Styled Components**
 - 🌍 **Integração com APIs REST**
-- 💾 Noções de **Back-End com Node.js e Express**
+- 💾 Noções de **Back-End com Node.js e Python**
 - 🎨 Princípios de **Design System e UI Acessível**
 
 ---
@@ -39,9 +39,6 @@
 ### 💼 Projetos em destaque
 
 🖥️ [**Portfólio Interativo**](https://www.notion.so/290306a1568c80da9b75d4a4faf9b669?pvs=21) — Website animado com modo escuro e responsivo.  
-🛒 [**React Store**](https://www.notion.so/290306a1568c80da9b75d4a4faf9b669?pvs=21) — Loja virtual com integração de API e carrinho dinâmico.  
-🎨 [**UI Components Library**](https://www.notion.so/290306a1568c80da9b75d4a4faf9b669?pvs=21) — Biblioteca de componentes reutilizáveis com Tailwind.  
-📱 [**Landing Page Moderna**](https://www.notion.so/290306a1568c80da9b75d4a4faf9b669?pvs=21) — Página institucional com animações suaves e SEO otimizado.  
 
 ---
 
@@ -71,7 +68,7 @@
 
 ### 💬 Uma frase que me define:
 
-> "Não é só sobre código — é sobre criar experiências que causem impacto."
+> "Get Rich or Die Tryin'"
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
