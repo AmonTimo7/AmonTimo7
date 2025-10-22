@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🎨 <strong>Especialista em Vibe Coding</strong> — transformando código em experiências cheias de energia, estilo e fluidez. <br>
+  🎨 <strong>Especialista em Vibe Coding</strong> — Transformando código em inovação e fluidez. <br>
   💻 Desenvolvedor Front-End com foco em design moderno, performance e interatividade. <br>
   🚀 Criando interfaces que unem tecnologia, design e propósito.
 </p>
@@ -28,7 +28,7 @@
 
 ### 🧩 O que estou aprendendo
 
-- ⚛️ **Angular avançado** (Hooks, Context API, Router, Redux)
+- 🧠 Frontend avançado com Angular e React (componentização, roteamento, gerenciamento de estado)
 - 🌌 **Tailwind CSS** e **Styled Components**
 - 🌍 **Integração com APIs REST**
 - 💾 Noções de **Back-End com Node.js e Python**
