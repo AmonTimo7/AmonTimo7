@@ -49,9 +49,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmonTimo7&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AmonTimo7&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
-</p>
 
 ---
 
