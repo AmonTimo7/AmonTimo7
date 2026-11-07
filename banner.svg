@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1120"/>
+      <stop offset="0.55" stop-color="#1e3a8a"/>
+      <stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60a5fa" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#93c5fd"/>
+      <stop offset="1" stop-color="#60a5fa" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="18" fill="url(#grid)"/>
+  <circle cx="1060" cy="40" r="140" fill="#3b82f6" opacity="0.18"/>
+  <circle cx="140" cy="250" r="120" fill="#1d4ed8" opacity="0.25"/>
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="112" font-size="64" font-weight="700" fill="#ffffff">Amon Timo</text>
+    <rect x="420" y="134" width="360" height="2" fill="url(#line)"/>
+    <text x="600" y="176" font-size="24" fill="#dbeafe">Python &amp; Web Developer · Founder of ACTech</text>
+    <text x="600" y="214" font-family="'Fira Code', Consolas, monospace" font-size="16" fill="#93c5fd">&gt; turning spreadsheets into real systems_</text>
+  </g>
+</svg>
