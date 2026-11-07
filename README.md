@@ -1,118 +1,94 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Opa,%20eu%20sou%20o%20Amon!&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
-</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End;%F0%9F%8E%A7;Criando+interfaces+modernas" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=Amon%20Timo&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Python%20%26%20Web%20Developer%20%E2%80%A2%20Founder%20of%20ACTech&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=620&lines=I+turn+spreadsheets+into+real+systems.;Python+%E2%80%A2+Flask+%E2%80%A2+Django+%E2%80%A2+Node.js;Systems+Analysis+%26+Development+%40+UDF+(Brazil)" alt="Typing SVG" /></a>
+
+<p>
+<a href="https://www.linkedin.com/in/amon-timo-523957380/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:amoncardosotimo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://amontimo7.github.io"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
+</div>
+
+---
+
+### 👋 About me
+
+I'm a **Systems Analysis and Development** student at UDF (Brasília, Brazil), an **intern at Bradesco** and the founder of **ACTech Informática**, where I build custom systems, websites and digital marketing for small and medium businesses.
+
+My favorite kind of problem: **a team running its operation on spreadsheets and WhatsApp messages.** I've replaced that with real software for a construction company, a motorcycle dealership, an insurance brokerage team, a clinic and a residential condominium — and the systems are in daily use.
+
+- 🏗️ **Shipping to production:** finance, sales, inventory, requests and reporting systems used by real teams
+- ⚙️ **Automation first:** I automated 100% of my own admin job before moving into tech full-time
+- 🤖 **Learning now:** applied AI, cloud deployment and software architecture
+- 🌎 **Goal:** grow as an engineer and study/work abroad
+
+---
+
+### 🛠️ Tech stack
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+### 🚀 What I've built
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🏗️ **Construction Finance System** | Replaces a construction project's finance spreadsheet: expenses, labor, accounts payable, progress billing with automatic taxes, reports | Python · Django · Docker |
+| 🧾 **Invoice-Reading Finance Platform** | Reads e-invoices, bills and bank statements automatically and turns them into organized expenses per project | Node.js · JavaScript |
+| 🏍️ **Dealership Management System** | Customers, sales, cash flow and salespeople, deployed on a VPS with automatic backups | Python · Flask · MySQL · Docker |
+| 📈 **Sales & Goals Tracker** | Insurance brokers log their day; the manager closes the month with Excel/PDF reports | Python · Flask |
+| 🗺️ **Maps Prospecting Extension** | Chrome extension that finds local businesses on Google Maps, collects contacts and scores sales potential | JavaScript |
+| 🎙️ **Spectrus** | Voice-controlled desktop assistant for Windows that always asks before changing anything | Electron · TypeScript · Python |
+| 💊 **CuidaBem** | Medication and health-routine app for older adults, with a caregiver profile | HTML · CSS · JavaScript |
+
+> Most of these were built for clients, so their source code is private. Public repositories below contain my own projects and demos with fictitious data.
+
+---
+
+### 📊 GitHub stats
+
 <div align="center">
-  
-  🎓 **Cursando Análise e Desenvolvimento de Sistemas** <br>
-  Entusiasta de Design, Front-end e User Experience (UX).
-  
-  <br>
-  
-</div>
-
-<br>
-
----
-
-### 🚀 Sobre Mim & Experiência
-
-<ul>
-  <li>🏢 <strong>Soluções Reais em Produção:</strong> Já desenvolvi projetos com soluções reais que estão sendo usados ativamente por equipes para:
-    <ul>
-      <li>📦 <strong>Gestão de Almoxarifado e Correios</strong></li>
-      <li>📋 <strong>Controle de Demandas</strong></li>
-      <li>🏗️ <strong>Geração de Relatórios para Vistorias de Engenharia</strong></li>
-    </ul>
-  </li>
-  <li>🧩 <strong>Fascinado por Automação:</strong> Foco total em integração entre plataformas e otimização de processos.</li>
-  <li>🔐 <strong>Estudo Contínuo:</strong> Aprofundando em programação, Interfaces Modernas e <strong>Inteligência Artificial</strong>.</li>
-  <li>💬 <strong>Colaboração:</strong> Sempre aberto a networking, collabs e novos aprendizados.</li>
-</ul>
-
----
-
-### 🧠 Tecnologias e Ferramentas
-
-#### 🎨 Front-End & Design
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5"/>
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3"/>
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React JS"/>
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular" title="Angular"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind" title="Tailwind CSS"/>
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" title="Figma Design"/>
-</div>
-
-#### ⚙️ Back-End & Controle
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS" title="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="Visual Studio Code"/>
-</div>
-
-#### 💾 Banco de Dados
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" title="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" title="SQLite / SQL"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AmonTimo7&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmonTimo7&layout=compact&hide_border=true&theme=tokyonight"/>
 </div>
 
 ---
-
-### 🧩 O que estou aprendendo
 
 <details>
-  <summary><strong>📚 Ver stack de estudos atual</strong></summary>
-  
-  - ⚛️ **Frontend Avançado:** Arquitetura de componentes e State Management.
-  - 🌌 **Estilização:** Tailwind CSS e Design Systems.
-  - 🌍 **APIs:** Integrações RESTful complexas.
-  - 🤖 **IA Generativa:** Implementação de IAs em soluções web.
-  
+<summary><b>🇧🇷 Versão em português</b></summary>
+<br>
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no UDF (Brasília), **estagiário no Bradesco** e fundador da **ACTech Informática**, onde desenvolvo sistemas sob medida, sites e marketing digital para pequenas e médias empresas.
+
+O tipo de problema que eu mais gosto: **uma equipe que toca a operação em planilha e recado de WhatsApp.** Já troquei isso por sistemas de verdade para uma construtora, uma concessionária de motos, uma equipe de corretores de seguros, uma clínica e um condomínio — e eles são usados todos os dias.
+
+- 🏗️ Sistemas em produção: financeiro, vendas, almoxarifado, demandas e relatórios
+- ⚙️ Automatizei 100% do meu próprio trabalho administrativo antes de ir para a tecnologia
+- 🤖 Estudando agora: IA aplicada, deploy em nuvem e arquitetura de software
+- 🌎 Objetivo: crescer como engenheiro e estudar/trabalhar fora do Brasil
+
 </details>
 
----
-
-### 💼 Projetos em destaque
-
-🖥️ [**Portfólio Interativo**](https://www.notion.so/290306a1568c80da9b75d4a4faf9b669?pvs=21) — Website animado com modo escuro e responsivo.  
-
----
-
-### 📊 Estatísticas do GitHub
-
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AmonTimo7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmonTimo7&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-</div>
-
----
-
-### 🌐 Conecte-se comigo
-
-<p align="center">
-  <a href="mailto:amoncardosotimo@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/amon-timo-523957380/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/AmonTimo7"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://portfolioamon.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
----
-
-### 💬 Uma frase que me define:
-
-> "Get Rich or Die Tryin'"
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-<div align="center">
-  <img src="https://camo.githubusercontent.com/6ac71558e378e3fbd23a389ee09b589e401d372882f8c7065a2327e0aedf7bb2/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31323026636f6c6f723d3030433246462673656374696f6e3d666f6f746572" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=100&section=footer" width="100%"/>
 </div>
