@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=Amon%20Timo&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Python%20%26%20Web%20Developer%20%E2%80%A2%20Founder%20of%20ACTech&descAlignY=58&descSize=18" width="100%"/>
+<img src="./banner.svg" width="100%" alt="Amon Timo — Python & Web Developer"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=620&lines=I+turn+spreadsheets+into+real+systems.;Python+%E2%80%A2+Flask+%E2%80%A2+Django+%E2%80%A2+Node.js;Systems+Analysis+%26+Development+%40+UDF+(Brazil)" alt="Typing SVG" /></a>
 
@@ -61,16 +61,7 @@ My favorite kind of problem: **a team running its operation on spreadsheets and 
 | 🎙️ **Spectrus** | Voice-controlled desktop assistant for Windows that always asks before changing anything | Electron · TypeScript · Python |
 | 💊 **CuidaBem** | Medication and health-routine app for older adults, with a caregiver profile | HTML · CSS · JavaScript |
 
-> Most of these were built for clients, so their source code is private. Public repositories below contain my own projects and demos with fictitious data.
-
----
-
-### 📊 GitHub stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AmonTimo7&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmonTimo7&layout=compact&hide_border=true&theme=tokyonight"/>
-</div>
+> Most of these were built for clients, so their source code is private. My public repositories contain my own projects and academic work.
 
 ---
 
@@ -88,7 +79,3 @@ O tipo de problema que eu mais gosto: **uma equipe que toca a operação em plan
 - 🌎 Objetivo: crescer como engenheiro e estudar/trabalhar fora do Brasil
 
 </details>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=100&section=footer" width="100%"/>
-</div>
